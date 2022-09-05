@@ -73,3 +73,4 @@ I am a SFCC Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <a href="https://github.com/usmt-cop/README">Work README</a> 
 </p>
 
+![](https://komarev.com/ghpvc/?username=usmt-cop&style=for-the-badge)
