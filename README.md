@@ -8,12 +8,8 @@ I am a SFCC Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-UsmtCop-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-    </p>
-<div align="right">
-    <a href="https://app.daily.dev/usmt"><img src="https://api.daily.dev/devcards/2b7a94abbaa04fb89a0e5c4e69208d1e.png?r=37l" width="200" alt="usmt-cop's Dev Card"/></a>
-</div>
-</p>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-UsmtCop-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/teliudayram)
+
 
 
 ---
